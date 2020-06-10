@@ -69,7 +69,7 @@ public class lestrellBot extends TelegramLongPollingBot {
     }
 
     public String getBotToken() {
-        return "1084196026:AAHoqYytFmbo9x2u_mCgncz_RsDd7IAIHic";
+        return null;
     }
 }
 
